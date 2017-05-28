@@ -5,11 +5,11 @@
 A two-player Tic-Tac-Toe game implemented in:
 1. C
 
-![](raw/c_tictactoe.png "Tic-Tac-Toe in C")
+![](raw/c_tictactoe.gif "Tic-Tac-Toe in C")
 
 2. Python
 
-![](raw/python_tictactoe.png "Tic-Taco-Tssssss in Python")
+![](raw/python_tictactoe.gif "Tic-Taco-Tssssss in Python")
 
 **Features**
 
